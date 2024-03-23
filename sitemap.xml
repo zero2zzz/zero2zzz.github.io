@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://zero2zzz.github.io/</loc>
     <lastmod>2024-03-22T23:15:27+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://zero2zzz.github.io/post/</loc>
     <lastmod>2024-03-22T23:15:27+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</loc>
+    <loc>https://zero2zzz.github.io/post/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2024-03-22T23:15:27+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/first/</loc>
+    <loc>https://zero2zzz.github.io/post/first/</loc>
     <lastmod>2024-03-22T22:15:27+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://zero2zzz.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://zero2zzz.github.io/tags/</loc>
   </url>
 </urlset>
